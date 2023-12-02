@@ -8,3 +8,6 @@ Step 2. download Window 10
 
 Step 3. dowload Window Server 2019
 ![5BD27A99-1586-4ADB-B38E-0FC41AD0E5E7](https://github.com/rogerbarrow/Active-Directory-homelab/assets/46138186/39602698-1260-491e-ac29-feeb68a7af8a)
+ 
+ Step 4. create our Virtual machine depending on your computer size, 2 GB of ram should work 
+ ![D9927012-7BF5-4E3C-953D-00C6D8470298_1_105_c](https://github.com/rogerbarrow/Active-Directory-homelab/assets/46138186/184599a5-a3ba-46aa-953a-c9b24f27bbfd)
