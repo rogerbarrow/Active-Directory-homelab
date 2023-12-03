@@ -11,3 +11,7 @@ Step 3. dowload Window Server 2019
  
  Step 4. create our Virtual machine depending on your computer size, 2 GB of ram should work 
  ![D9927012-7BF5-4E3C-953D-00C6D8470298_1_105_c](https://github.com/rogerbarrow/Active-Directory-homelab/assets/46138186/184599a5-a3ba-46aa-953a-c9b24f27bbfd)
+
+Step 5. Setting on your Virtual server make sure you have 2 network connection first being you NAT, Second 
+
+![D9927012-7BF5-4E3C-953D-00C6D8470298_1_105_c](https://github.com/rogerbarrow/Active-Directory-homelab/assets/46138186/c158ce9f-f03e-4ec5-b388-b16f3f59bc8c)
